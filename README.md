@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logo.png" alt="Masaka-Agri Supplies logo" width="180"></p>
+<p align="center"><img src="logo.png" alt="Masaka-Agri Supplies logo" width="180"></p>
 
 # Supplier Management System
 
